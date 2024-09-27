@@ -2,9 +2,6 @@
 
 ![](Output%20Images/Sticker%20-%20Danny's%20Diner.png)
 
-This challenge is a proof of my SQL skills. 
-----
-
 # Introduction
 Danny wants to use this data to answer a few simple questions about his customers. 
 
@@ -310,6 +307,3 @@ Then my final query selected all the columns in the derived table and added an e
 
 This is the end of my first case study on the Danny Ma SQL challenge (smiles). To join the challenge, you can click [HERE](https://8weeksqlchallenge.com/getting-started/). 
 
-If you have any questions or suggestions as regards my solutions to this, you can send me a [message on twitter](https://twitter.com/AmandiNancy). 
-
-Thank you for reading! Hopefully you'll read about my next case study too, right? See you soon. 
