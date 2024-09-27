@@ -1,4 +1,4 @@
-# Danny's Diner - Danny Ma SQL challenge (Case Study #1)
+# Danny's Diner -  SQL challenge (Case Study #1)
 
 ![](Output%20Images/Sticker%20-%20Danny's%20Diner.png)
 
@@ -9,11 +9,6 @@ He plans on using answers from these questions to help him decide whether he sho
 
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
-Below are the key datasets for this study:
-
-* [Sales](https://github.com/Nancy9ice/Danny-s-Diner/blob/main/Datasets/Sales.csv)
-* [Menu](https://github.com/Nancy9ice/Danny-s-Diner/blob/main/Datasets/Menu.csv)
-* [Members](https://github.com/Nancy9ice/Danny-s-Diner/blob/main/Datasets/Members.csv)
 
 Below is an Entity Relationship Diagram that shows the relationship between the tables.
 
@@ -305,5 +300,5 @@ Then my final query selected all the columns in the derived table and added an e
     FROM T1
 
 
-This is the end of my first case study on the Danny Ma SQL challenge (smiles). To join the challenge, you can click [HERE](https://8weeksqlchallenge.com/getting-started/). 
+This is the end of my first case study. To join the challenge, you can click [HERE](https://8weeksqlchallenge.com/getting-started/). 
 
