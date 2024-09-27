@@ -1,7 +1,4 @@
 Case Study #1 - Danny's Diner
-Danny Ma · May 1, 2021
-
-
 
 Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
@@ -62,12 +59,6 @@ B	2021-01-09
 Interactive SQL Session
 You can use the embedded DB Fiddle below to easily access these example datasets - this interactive session has everything you need to start solving these questions using SQL.
 
-You can click on the Edit on DB Fiddle link on the top right hand corner of the embedded session below and it will take you to a fully functional SQL editor where you can write your own queries to analyse the data.
-
-You can feel free to choose any SQL dialect you’d like to use, the existing Fiddle is using PostgreSQL 13 as default.
-
-Serious SQL students have access to a dedicated SQL script in the 8 Week SQL Challenge section of the course which they can use to generate relevant temporary tables like we’ve done throughout the entire course!
-
 
 
 Case Study Questions
@@ -124,6 +115,4 @@ B	2021-02-01	ramen	12	Y	3
 C	2021-01-01	ramen	12	N	null
 C	2021-01-01	ramen	12	N	null
 C	2021-01-07	ramen	12	N	null
-Next Steps
 
-If you’d like to use this case study for one of your portfolio projects or in a personal blog post - please remember to link back to this URL and also don’t forget to share some LinkedIn updates using the #8WeekSQLChallenge hashtag and remember to tag me!
